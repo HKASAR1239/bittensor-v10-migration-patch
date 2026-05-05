@@ -93,3 +93,6 @@ Expected output: `smoke test OK`
 - Python: 3.10, 3.11
 - bittensor: 10.x
 - Last verified: 2026-05-02
+
+## Full guide
+https://spylab.ai/notes/bittensor-v10-validator-helper-migration/
